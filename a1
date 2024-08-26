@@ -1,0 +1,7 @@
+ today date 26/08/2024 this is my commit
+public class classA
+{
+System.out.println(" today monday");
+}
+public static void main(String[]args)
+classA
